@@ -16,4 +16,4 @@ jobs:
       - name: 跑测试
         run: |
           pip install pytest
-          pytest chapter2/test_calc.py -v
+          pytest chapter2git -v
